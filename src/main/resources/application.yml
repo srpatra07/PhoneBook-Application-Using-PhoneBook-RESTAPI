@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: PhoneBook-Application
+server:
+  port: 8081
